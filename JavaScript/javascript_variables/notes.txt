@@ -1,0 +1,2 @@
+If you are accessing html elements using DOM, it is better to 
+use script tag after body tag.

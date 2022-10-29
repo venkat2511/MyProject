@@ -1,0 +1,5 @@
+JavaScript Functions
+ 
+ Function:
+ Functions are a block of code that are used to perform a certain operation.
+ Functions provides code reusability.

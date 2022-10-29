@@ -13,3 +13,7 @@ function add(a, b) {
 
 A function can be called by using its name
 add(553,553);
+
+Functions will be terminated after the execution of return statement. 
+ie. program after return statement will not be executed.
+

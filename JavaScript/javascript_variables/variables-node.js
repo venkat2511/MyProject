@@ -1,6 +1,6 @@
 console.log("JavaScript Variables");
 var global_var = 10;
-function fun1(){
+function fun_var(){
     var local_var = 13;
     console.log("this is global variable ",global_var);
 }
@@ -10,4 +10,4 @@ try{
     console.warn("Local variable not found ",err.message);
 }
 
-fun1();
+fun_var();

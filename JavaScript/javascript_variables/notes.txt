@@ -1,2 +1,23 @@
-If you are accessing html elements using DOM, it is better to 
+JavaScript Variables
+
+Note : If you are accessing html elements using DOM, it is better to 
 use script tag after body tag.
+
+Declaring a variable in javascript:
+In javascript variables can be declared using three ways:
+ -> var
+ -> let
+ -> const
+
+var :
+var is traditional way of declaring variables in javascript.
+Variables declared with var are global or function scoped.
+var variables can be redeclared and updated.
+
+let:
+It is enhanced version of var.
+let variables are block scoped.
+variables declared with let cannot be redeclared but updated.
+
+const:
+const is block scoped.

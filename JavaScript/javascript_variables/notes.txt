@@ -21,3 +21,4 @@ variables declared with let cannot be redeclared but updated.
 
 const:
 const is block scoped.
+const variables cannot be redeclared and updated.

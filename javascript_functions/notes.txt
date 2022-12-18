@@ -1,0 +1,19 @@
+JavaScript Functions
+ 
+ Function:
+ Functions are a block of code that are used to perform a certain operation.
+ Functions provides code reusability.
+
+In JavaScript functions are defined using function keyword followed by function name and parameters.
+
+Below is the example for function which accepts two parameter and returns the sum of two numbers.
+function add(a, b) {
+    return a + b;
+}
+
+A function can be called by using its name
+add(553,553);
+
+Functions will be terminated after the execution of return statement. 
+ie. program after return statement will not be executed.
+

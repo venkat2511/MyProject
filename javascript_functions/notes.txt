@@ -17,3 +17,9 @@ add(553,553);
 Functions will be terminated after the execution of return statement. 
 ie. program after return statement will not be executed.
 
+Different ways for creating a Function in JavaScript
+4 Ways:
+->Using function statement
+->Using function expression
+->Using arrow Function
+->Using Function constructor.
